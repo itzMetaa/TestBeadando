@@ -4,6 +4,7 @@ namespace TestBeadando
 {
     class Eloadas
     {
+        // commit
         private bool[,] foglalasok;
 
         public bool[,] Foglalasok { get => foglalasok; set => foglalasok = value; }
